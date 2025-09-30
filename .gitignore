@@ -14,7 +14,7 @@ config.codekit
 *.sublime-workspace
 nbproject
 bower_components
-composer.lock
+# composer.lock
 
 # Cache, temp and personal files
 
